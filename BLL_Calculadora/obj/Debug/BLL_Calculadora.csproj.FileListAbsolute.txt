@@ -1,0 +1,9 @@
+C:\Users\ignac\Downloads\PROGRA III\PROYECTOS\SEMANA_2_CLASE_1\BLL_Calculadora\bin\Debug\BLL_Calculadora.dll
+C:\Users\ignac\Downloads\PROGRA III\PROYECTOS\SEMANA_2_CLASE_1\BLL_Calculadora\bin\Debug\BLL_Calculadora.pdb
+C:\Users\ignac\Downloads\PROGRA III\PROYECTOS\SEMANA_2_CLASE_1\BLL_Calculadora\bin\Debug\DAL_Calculadora.dll
+C:\Users\ignac\Downloads\PROGRA III\PROYECTOS\SEMANA_2_CLASE_1\BLL_Calculadora\bin\Debug\DAL_Calculadora.pdb
+C:\Users\ignac\Downloads\PROGRA III\PROYECTOS\SEMANA_2_CLASE_1\BLL_Calculadora\obj\Debug\BLL_Calculadora.csproj.AssemblyReference.cache
+C:\Users\ignac\Downloads\PROGRA III\PROYECTOS\SEMANA_2_CLASE_1\BLL_Calculadora\obj\Debug\BLL_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Downloads\PROGRA III\PROYECTOS\SEMANA_2_CLASE_1\BLL_Calculadora\obj\Debug\BLL_Calculadora.csproj.CopyComplete
+C:\Users\ignac\Downloads\PROGRA III\PROYECTOS\SEMANA_2_CLASE_1\BLL_Calculadora\obj\Debug\BLL_Calculadora.dll
+C:\Users\ignac\Downloads\PROGRA III\PROYECTOS\SEMANA_2_CLASE_1\BLL_Calculadora\obj\Debug\BLL_Calculadora.pdb

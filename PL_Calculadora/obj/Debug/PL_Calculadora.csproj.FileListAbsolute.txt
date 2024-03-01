@@ -1,0 +1,16 @@
+C:\Users\ignac\Downloads\PROGRA III\PROYECTOS\SEMANA_2_CLASE_1\PL_Calculadora\bin\Debug\PL_Calculadora.exe.config
+C:\Users\ignac\Downloads\PROGRA III\PROYECTOS\SEMANA_2_CLASE_1\PL_Calculadora\bin\Debug\PL_Calculadora.exe
+C:\Users\ignac\Downloads\PROGRA III\PROYECTOS\SEMANA_2_CLASE_1\PL_Calculadora\bin\Debug\PL_Calculadora.pdb
+C:\Users\ignac\Downloads\PROGRA III\PROYECTOS\SEMANA_2_CLASE_1\PL_Calculadora\obj\Debug\PL_Calculadora.csproj.AssemblyReference.cache
+C:\Users\ignac\Downloads\PROGRA III\PROYECTOS\SEMANA_2_CLASE_1\PL_Calculadora\obj\Debug\PL_Calculadora.Properties.Resources.resources
+C:\Users\ignac\Downloads\PROGRA III\PROYECTOS\SEMANA_2_CLASE_1\PL_Calculadora\obj\Debug\PL_Calculadora.csproj.GenerateResource.cache
+C:\Users\ignac\Downloads\PROGRA III\PROYECTOS\SEMANA_2_CLASE_1\PL_Calculadora\obj\Debug\PL_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Downloads\PROGRA III\PROYECTOS\SEMANA_2_CLASE_1\PL_Calculadora\obj\Debug\PL_Calculadora.exe
+C:\Users\ignac\Downloads\PROGRA III\PROYECTOS\SEMANA_2_CLASE_1\PL_Calculadora\obj\Debug\PL_Calculadora.pdb
+C:\Users\ignac\Downloads\PROGRA III\PROYECTOS\SEMANA_2_CLASE_1\PL_Calculadora\bin\Debug\BLL_Calculadora.dll
+C:\Users\ignac\Downloads\PROGRA III\PROYECTOS\SEMANA_2_CLASE_1\PL_Calculadora\bin\Debug\DAL_Calculadora.dll
+C:\Users\ignac\Downloads\PROGRA III\PROYECTOS\SEMANA_2_CLASE_1\PL_Calculadora\bin\Debug\BLL_Calculadora.pdb
+C:\Users\ignac\Downloads\PROGRA III\PROYECTOS\SEMANA_2_CLASE_1\PL_Calculadora\bin\Debug\DAL_Calculadora.pdb
+C:\Users\ignac\Downloads\PROGRA III\PROYECTOS\SEMANA_2_CLASE_1\PL_Calculadora\obj\Debug\PL_Calculadora.csproj.CopyComplete
+C:\Users\ignac\Downloads\PROGRA III\PROYECTOS\SEMANA_2_CLASE_1\PL_Calculadora\obj\Debug\PL_Calculadora.frmCalculadora.resources
+C:\Users\ignac\Downloads\PROGRA III\PROYECTOS\SEMANA_2_CLASE_1\PL_Calculadora\obj\Debug\PL_Calculadora.frmInicio.resources

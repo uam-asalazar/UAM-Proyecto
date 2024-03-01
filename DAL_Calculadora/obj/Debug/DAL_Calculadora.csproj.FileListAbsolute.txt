@@ -1,0 +1,6 @@
+C:\Users\ignac\Downloads\PROGRA III\PROYECTOS\SEMANA_2_CLASE_1\DAL_Calculadora\bin\Debug\DAL_Calculadora.dll
+C:\Users\ignac\Downloads\PROGRA III\PROYECTOS\SEMANA_2_CLASE_1\DAL_Calculadora\bin\Debug\DAL_Calculadora.pdb
+C:\Users\ignac\Downloads\PROGRA III\PROYECTOS\SEMANA_2_CLASE_1\DAL_Calculadora\obj\Debug\DAL_Calculadora.csproj.AssemblyReference.cache
+C:\Users\ignac\Downloads\PROGRA III\PROYECTOS\SEMANA_2_CLASE_1\DAL_Calculadora\obj\Debug\DAL_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Downloads\PROGRA III\PROYECTOS\SEMANA_2_CLASE_1\DAL_Calculadora\obj\Debug\DAL_Calculadora.dll
+C:\Users\ignac\Downloads\PROGRA III\PROYECTOS\SEMANA_2_CLASE_1\DAL_Calculadora\obj\Debug\DAL_Calculadora.pdb
